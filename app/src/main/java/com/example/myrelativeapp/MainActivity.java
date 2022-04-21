@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void initViews(){
-        Button b_none = findViewById(R.id.b_done);
+        Button b_none = findViewById(R.id.b_push3);
         b_none.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

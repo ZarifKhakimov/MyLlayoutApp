@@ -23,7 +23,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/b_done"
+        android:id="@+id/b_push3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="open_detail"
