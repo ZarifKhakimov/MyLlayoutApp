@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyRelativeApp</string>
+    <string name="person_id">Person_Id</string>
+    <string name="id1">ID</string>
+    <string name="ID" />
+    <string name="personpw1">PersonPW</string>
+    <string name="pw1">PW</string>
+    <string name="id">ID</string>
+    <string name="personid">PersonID</string>
+    <string name="personpw">PersonPW</string>
+    <string name="pw2">PW</string>
+    <string name="login">LOGIN</string>
+</resources>
